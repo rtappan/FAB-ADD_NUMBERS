@@ -1,4 +1,4 @@
-;TSTxxxxxxxxxxxxxxxxxxxxxxFAB BOARDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+;NEWWWxxxxxxxxxxxxxxxxxxxxxFAB BOARDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	LIST P=18F85K22, N=48, T=ON, ST=OFF
 	#INCLUDE <P18F85K22.INC> 
 	CONFIG  XINST = OFF
